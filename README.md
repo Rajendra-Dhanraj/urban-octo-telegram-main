@@ -34,7 +34,7 @@ _When I find concise, descriptive title_
 
 ## Screenshot
 
-![Screenshot1](./assets/images/ScreenShot-1.png)
+![Screenshot1](./assets/images/ScreenShot-1.png "Nav/Jumbotron Screenshot")
 
 ## Link to deployed webpage
 
@@ -42,4 +42,4 @@ _When I find concise, descriptive title_
 
 ## License & Copyright
 
-MIT, © 2019 Horiseon Social Solution Services, Inc
+MIT, © 2019 Horiseon Social Solution Services, Inc 
