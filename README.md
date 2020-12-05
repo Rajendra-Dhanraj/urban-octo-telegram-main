@@ -1,44 +1,47 @@
-# 01 HTML CSS Git: Code Refactor
+# Horiseon Refactored Webpage
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+Table of Contents:
+1. Introduction
+2. Requirements
+3. Screenshot
+4. Link to Webpage:
+5. License & Copyright
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+## Introduction
 
-> Always leave the code you are editing a little cleaner than you found it.
+Horiseon is a marketing agency focused on Search Engine Optimization, Online Reputation Management and Social Media Marketing.
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+The purpose of this project is to maintain the current layout of Horiseons Webpage, while adding in accsssibility standards, semantic HTML elements and general best practice of HTML & CSS.
 
-## User Story
+## Requirements
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+Given a webpage meets accessibility standards
 
-## Acceptance Criteria
+When I view the rouce code
+Then I find semantic HTML elements
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+Web I view the structure of the HTML elements
+Then I find that the elements follow a logical structure independent of style and positioning.
 
-## Review
+When I view the image elements
+Then I find accessible alt attributes
 
-You are required to submit the following for review:
+When I viwew the heading attributes
+Then they fall in sequential order
 
-* The URL of the deployed application.
+When i view the title element
+When I find concise, descriptite title
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+## Screenshot
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+! [Screenshot1] (./assets/images/Screen Shot 2020-12-05 at 4.54.32 PM.png
+
+! [Screenshot2] (./assets/images/Screen Shot 2020-12-05 at 4.55.06 PM.png)
+
+## Link to deployed webpage
+
+[Live Website](https://rajendra-dhanraj.github.io/urban-octo-telegram-main/)
+
+## License & Copyright
+
+MIT, © 2019 Horiseon Social Solution Services, Inc
