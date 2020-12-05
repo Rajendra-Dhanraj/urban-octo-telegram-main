@@ -32,13 +32,9 @@ _Then they fall in sequential order_
 _When i view the title element_
 _When I find concise, descriptive title_
 
-## Screenshots
+## Screenshot
 
-![Screenshot1](./assets/images/ScreenShot-3.png)
-
-![Screenshot2](./assets/images/ScreenShot-4.png)
-
-![Screenshot3](./assets/images/ScreenShot-5.png)
+![Screenshot1](./assets/images/ScreenShot-1.png)
 
 ## Link to deployed webpage
 
