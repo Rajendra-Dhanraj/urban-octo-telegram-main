@@ -1,6 +1,6 @@
-# Horiseon Refactored Webpage
+# **Horiseon Refactored Webpage**
 
-Table of Contents:
+# Table of Contents:
 1. Introduction
 2. Requirements
 3. Screenshot
@@ -15,32 +15,32 @@ The purpose of this project is to maintain the current layout of Horiseons Webpa
 
 ## Requirements
 
-Given a webpage meets accessibility standards
+**Given a webpage meets accessibility standards**
 
-When I view the rouce code
-Then I find semantic HTML elements
+_When I view the rouce code_
+_Then I find semantic HTML elements_
 
-Web I view the structure of the HTML elements
-Then I find that the elements follow a logical structure independent of style and positioning.
+_Web I view the structure of the HTML elements_
+_Then I find that the elements follow a logical _structure independent of style and positioning._
 
-When I view the image elements
-Then I find accessible alt attributes
+_When I view the image elements_
+_Then I find accessible alt attributes_
 
-When I viwew the heading attributes
-Then they fall in sequential order
+_When I viwew the heading attributes_
+_Then they fall in sequential order_
 
-When i view the title element
-When I find concise, descriptite title
+_When i view the title element_
+_When I find concise, descriptive title_
 
-## Screenshot
+## Screenshots
 
-! [Screenshot1] (./assets/images/Screen Shot 2020-12-05 at 4.54.32 PM.png
+![Screenshot1](./assets/images/Screenshot-1.png "Screenshot 1")
 
-! [Screenshot2] (./assets/images/Screen Shot 2020-12-05 at 4.55.06 PM.png)
+![Screenshot2](./assets/images/ScreenShot-2.png "Screenshot 2")
 
 ## Link to deployed webpage
 
-[Live Website](https://rajendra-dhanraj.github.io/urban-octo-telegram-main/)
+[Click to view Live Website](https://rajendra-dhanraj.github.io/urban-octo-telegram-main/ "Horiseon")
 
 ## License & Copyright
 
