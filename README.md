@@ -34,9 +34,11 @@ _When I find concise, descriptive title_
 
 ## Screenshots
 
-![Screenshot1](./assets/images/Screenshot-1.png "Screenshot 1")
+![Screenshot1](./assets/images/ScreenShot-3.png)
 
-![Screenshot2](./assets/images/ScreenShot-2.png "Screenshot 2")
+![Screenshot2](./assets/images/ScreenShot-4.png)
+
+![Screenshot3](./assets/images/ScreenShot-5.png)
 
 ## Link to deployed webpage
 
